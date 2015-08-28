@@ -1,21 +1,21 @@
-[
-	{
-		gamemode: "deathmatch",
-		name: "Dome",
-		authors: [
-			"2958ea4c-3501-404e-88cc-12e8632f68cc",
-			"1935c8bf-3fdc-44d6-b358-85a7206ad8ac"
-			],
-		created: "07/30/15",
-		updated: "07/30/15",
-		version: "1.0"
-	},
-	{
-		obs-spawn: "x,y,z,yaw",
-		ffa-spawns: [
-			"x,y,z,yaw",
-			"x,y,z,yaw",
-			. . .
-			]
-	}
+[  
+   {  
+      "gamemode":"deathmatch",
+      "name":"Dome",
+      "authors":[  
+         "2958ea4c-3501-404e-88cc-12e8632f68cc",
+         "1935c8bf-3fdc-44d6-b358-85a7206ad8ac"
+      ],
+      "created":"07/30/15",
+      "updated":"07/30/15",
+      "version":"1.0"
+   },
+   {  
+      "obs-spawn":"x,y,z,yaw",
+      "ffa-spawns":[  
+         "x,y,z,yaw",
+         "x,y,z,yaw",
+         . . .
+      ]
+   }
 ]
