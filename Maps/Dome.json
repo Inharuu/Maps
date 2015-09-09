@@ -14,8 +14,7 @@
    {  
       "ffa-spawns":[  
          "x,y,z,yaw",
-         "x,y,z,yaw",
-         . . .
+         "x,y,z,yaw"
       ]
    }
 ]
