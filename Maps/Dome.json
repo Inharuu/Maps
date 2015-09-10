@@ -9,7 +9,7 @@
       "created":"07/30/15",
       "updated":"07/30/15",
       "version":"1.0",
-      "obs-spawn":"x,y,z,yaw,pitch"
+      "obs-spawn":"x,y,z,yaw"
    },
    {  
       "ffa-spawns":[  
