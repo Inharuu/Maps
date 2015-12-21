@@ -1,19 +1,34 @@
-Dome:DM
 Brickton:DM
-Exodus:TDM
-Dome:HH
 Brickton:HH
+Canbor:DM
+Canbor:HH
+Canbor:TBO
+Canbor:TDM
+Canbor:THH
+Dome:DM
+Dome:HH
+Exodus:TBO
+Exodus:TDM
+Exodus:THH
+Factory:DM
+Factory:HH
+Fort Caelum:DM
+Fort Caelum:HH
+Fort Caelum:TBO
+Fort Caelum:TDM
+Fort Caelum:THH
 Garden:DM
 Garden:HH
 Garden:TDM
-Exodus:THH
 Garden:THH
+Garden:M-TDM
+Garden:M-THH
 Kipos:DM
-Kipos:TDM
 Kipos:HH
+Kipos:TDM
 Kipos:THH
-Garden:TBO
-Exodus:TBO
-Kipos:TBO
-Factory:DM
-Factory:HH
+Spore:DM
+Spore:HH
+Spore:TBO
+Spore:TDM
+Spore:THH
